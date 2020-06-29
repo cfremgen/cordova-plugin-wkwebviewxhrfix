@@ -8,4 +8,7 @@ Install the plugin by running:
 cordova plugin add https://github.com/TheMattRay/cordova-plugin-wkwebviewxhrfix
 ```
 
-That's it! Seriously!
+
+## Cordova ios v6.0.0 +
+
+This fork fixes https://github.com/TheMattRay/cordova-plugin-wkwebviewxhrfix/issues/6
