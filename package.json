@@ -1,6 +1,6 @@
 {
   "author": {
-    "name": "Matt Ray"
+    "name": "Chris Fremgen (Forked)"
   },
   "license": "MIT",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "https://github.com/themattray/cordova-plugin-wkwebviewxhrfix"
   },
   "name": "cordova-plugin-wkwebviewxhrfix",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Cordova plugin to fix local file XHR access inside WKWebView",
   "cordova": {
     "id": "cordova-plugin-wkwebviewxhrfix",
